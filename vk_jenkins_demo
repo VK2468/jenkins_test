@@ -1,0 +1,8 @@
+# hello_world.py
+
+def hello():
+    print("Hello, World!")
+print("--tested by Vikas")
+
+if __name__ == "__main__":
+    hello()
